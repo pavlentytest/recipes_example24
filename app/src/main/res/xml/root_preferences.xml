@@ -1,0 +1,20 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/user_settings">
+
+        <DropDownPreference
+            app:key="user_google"
+            app:title="@string/login_with_google"
+            app:summary="@string/you_can_sign_in_with_google" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/search_settings">
+        <SwitchPreferenceCompat
+            app:key="is_vegetarian"
+            app:title="@string/vegetarian"
+            app:summary="@string/only_vegetarian_recipes_appear"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

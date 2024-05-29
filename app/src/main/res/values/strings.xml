@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">AppRecipes</string>
+
+    <string name="title_search_local">Saved</string>
+    <string name="title_search_online">Search Online</string>
+    <string name="title_settings">Settings</string>
+    <string name="search_your_saved_recipes">Search your saved recipes</string>
+    <string name="search_recipes_online">Search recipes online</string>
+    <string name="ingredients_label">Ingredients:</string>
+    <string name="instructions_label">Instructions:</string>
+    <string name="recipe_image">Recipe image</string>
+    <string name="add_new_recipe">Add new recipe</string>
+    <string name="add_picture">Add picture</string>
+    <string name="recipe_name">Recipe name</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="go_back">Go back</string>
+    <string name="category_used_as_filter">Category (used as filter)</string>
+    <string name="new_recipe_added_success">New recipe successfully added!</string>
+    <string name="error_add_recipe">Error! You must at least input a name and instructions for the recipe!</string>
+    <string name="no_category">No category</string>
+    <string name="delete_recipe">Delete recipe</string>
+    <string name="recipe">Recipe</string>
+    <string name="recipe_deleted_success">Recipe deleted!</string>
+    <string name="save_recipe_to_device">Save recipe to device</string>
+    <string name="search_is_empty">Search query is empty!</string>
+    <string name="picture_added_success">Picture added!</string>
+    <string name="recipe_download_success">Recipe successfully downloaded!</string>
+    <string name="edit_recipe">Edit recipe</string>
+    <string name="connection_error">There seems to be connection error, check your internet connection</string>
+    <string name="no_response_from_api">No response from API service</string>
+    <string name="add_new_picture">Add new picture</string>
+    <string name="save">Save</string>
+    <string name="recipe_edit_success">Recipe edited!</string>
+    <string name="user_settings">User settings</string>
+    <string name="search_settings">Search settings</string>
+    <string name="share_recipe">Share recipe</string>
+    <string name="sharing_my_recipe">Sharing my recipe!</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="you_can_sign_in_with_google">You can sign in using your Google account</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="only_vegetarian_recipes_appear">Only vegetarian recipes will appear in the search</string>
+    <string name="cheap_recipes">Cheap recipes</string>
+    <string name="only_cheap_recipes">Only inexpensive recipes will be shown</string>
+</resources>
